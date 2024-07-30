@@ -1,5 +1,5 @@
 ###########################################################
-## CITATION: XX
+CITATION: XX
 ###########################################################
 
 This script accompanies the empirical example in the article:
